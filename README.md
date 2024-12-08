@@ -16,5 +16,5 @@ Este é um projeto simples em Python para calcular o Índice de Massa Corporal (
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/pvgustavosampaio/mc.calculator/edit/main/README.md>
    cd calculadora-imc
